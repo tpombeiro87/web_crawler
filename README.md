@@ -65,4 +65,4 @@ No argummets are mandatory but is recommended that this command example is used:
 Done by 
 -------
 
-This was a task developed by Tiago Pombeiro.
+This was developed by Tiago Pombeiro.
