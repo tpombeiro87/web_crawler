@@ -1,0 +1,1175 @@
+[
+    {
+        "status": 200, 
+        "loc": "www.google.com/intl/pt-PT/about/", 
+        "assets": [
+            "https://ssl.gstatic.com/caja/5678/html-sanitizer-minified.js", 
+            "initial-scale=1, minimum-scale=1, width=device-width", 
+            "default.css"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/preferences?hl=pt-PT", 
+        "assets": [
+            "text/html; charset=ISO-8859-1"
+        ], 
+        "depth": 2, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/video/?id=06olHmcJjS0", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.google.com/intl/pt-PT/landing/2step/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/websearch?p=ws_images_usagerights&hl=pt-PT", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/expanding-our-ranks-recruiting-veterans-to-google/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/accounts/answer/32046?hl=pt-PT", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/how-we-hire/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/fields-of-work/finance/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/fields-of-work/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/fields-of-work/design/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/press/", 
+        "assets": [
+            "js/main.min.js", 
+            "https://www.google.com/images/icons/loading-16.gif", 
+            "initial-scale=1, minimum-scale=1, width=device-width", 
+            "https://www.google.com/images/branding/product/ico/googleg_alldp.ico"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/julia-on-growing-her-career-at-google/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com", 
+        "assets": [
+            "text/html; charset=UTF-8"
+        ], 
+        "depth": 1, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.youtube.com/googlegreen", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/websearch/answer/465?hl=pt-PT", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/plus/answer/1044503?hl=pt-PT", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/intl/en/policies/privacy/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.google.com/policies/terms/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/intl/en/policies/terms/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 503, 
+        "loc": "www.google.com/language_tools?hl=pt-PT&authuser=0", 
+        "assets": [
+            "text/html; charset=utf-8", 
+            "initial-scale=1"
+        ], 
+        "depth": 2, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/intl/pt-PT/about.html", 
+        "assets": [
+            "https://ssl.gstatic.com/caja/5678/html-sanitizer-minified.js", 
+            "initial-scale=1, minimum-scale=1, width=device-width", 
+            "default.css"
+        ], 
+        "depth": 2, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/how-one-team-turned-the-dream-of-speech-recognition-into-a-reality/", 
+        "assets": [
+            "https://services.google.com/fh/files/blogs/image49.jpg", 
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/websearch?p=ws_settings_safesearch&hl=pt-PT", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about.html", 
+        "assets": [
+            "https://ssl.gstatic.com/caja/5678/html-sanitizer-minified.js", 
+            "initial-scale=1, minimum-scale=1, width=device-width", 
+            "default.css"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.google.com/intl/pt-PT/safetycenter/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/websearch?p=adv_pages_similar&hl=pt-PT", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/fields-of-work", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/lifeatgoogle/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/fields-of-work/facilities/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/youtube/answer/55759?hl=pt-PT", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/hiroshi-lockheimer-answers-the-question-how-did-you-get-here/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/intl/pt-PT/policies/terms/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 2, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/mary-ocarroll-head-of-legal-operations-is-making-it-easier-to-get-things-done/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 6, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/zurich/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/sing/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.google.com/support/websearch/bin/answer.py?answer=35892&hl=pt-PT&p=settings_help", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/how-we-care-for-googlers/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.google.com/policies/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/dublin/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.google.com/trends/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/a-grassroots-effort-by-two-finance-googlers-changed-how-we-speak-to-each-other/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 6, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/fields-of-work/legal/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.google.com/intl/en/policies/privacy/google_privacy_policy_en.pdf", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.google.com/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//myaccount.google.com/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/advanced_search?hl=pt-PT&authuser=0", 
+        "assets": [
+            "text/html; charset=utf-8"
+        ], 
+        "depth": 2, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/fields-of-work/engineering-technology/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.google.com/about/datacenters/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/how-maria-and-her-team-revolutionized-gmail-for-425-million-users/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/webhp", 
+        "assets": [
+            "text/html; charset=UTF-8"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/london/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/fields-of-work/marketing-communications/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/websearch?p=adv_safesearch&hl=pt-PT", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/boulder/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/new-york/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//googlegreenblog.blogspot.com/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/websearch?p=ws_settings_safesearch_lock&hl=pt-PT&authuser=0", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.google.org/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/fields-of-work/people/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/fields-of-work/sales-service-support/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.google.com/intl/pt-PT/policies/privacy/google_privacy_policy_pt-PT.pdf", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/intl/pt-PT/policies/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/tokyo/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/hyderabad/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.google.com/about/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/?hl=pt-PT", 
+        "assets": [
+            "text/html; charset=UTF-8"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/the-primer-team-delivers-a-new-way-to-learn-marketing-skills-on-the-go/", 
+        "assets": [
+            "https://services.google.com/fh/files/misc/googlecareers_primer_05b.jpg", 
+            "https://services.google.com/fh/files/blogs/googlecareers_primer_03.jpg", 
+            "https://services.google.com/fh/files/blogs/googlecareers_primer_09.jpg", 
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 6, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/sydney/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/video/?id=olFEpeMwgHk", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 6, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/laszlo-bock-head-of-people-operations-shares/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/lifeatgoogle/benefits/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/press/blog-directory.html", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width", 
+            "https://www.google.com/images/branding/product/ico/googleg_alldp.ico"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/video/?id=8UicJ0SxBwA", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 6, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/intl/pt-PT/policies/privacy/", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 2, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/mountain-view/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/from-curiosity-to-product-excellence-one-pms-journey-to-google/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/how-we-hire/interview/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/fields-of-work/business-strategy/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/waterloo/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/websearch?p=adv_operators&hl=pt-PT", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/bringing-play-games-to-the-gamers/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 6, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/blogger/answer/41387?hl=pt-PT", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/how-we-hire/decide/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/intl/en/about/", 
+        "assets": [
+            "https://ssl.gstatic.com/caja/5678/html-sanitizer-minified.js", 
+            "initial-scale=1, minimum-scale=1, width=device-width", 
+            "default.css"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/sites/answer/90598?hl=pt-PT", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/green/index.html", 
+        "assets": [
+            "images/earthday/earthday-promo.png", 
+            "width=990", 
+            "Google is creating a better web that's better for the environment. We\u2019re greening our company by using resources as efficiently as possible and supporting renewable power. That means when you use Google products, you\u2019re being better to the environment."
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/websearch/answer/86640", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//www.youtube.com/trendsmap", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/press/google-directory.html", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width", 
+            "https://www.google.com/images/branding/product/ico/googleg_alldp.ico"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/video/?id=uOeKd9KVtMA", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//services.google.com/fb/forms/usform/?subid=us-en-et-nelson_adshp", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/how-we-hire/apply/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/locations/seattle-kirkland/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/video/?id=zDAYZU4A3w0", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 4, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/how-one-small-team-solved-the-big-problem-of-version-control/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 5, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/intl/pt-PT/ads/", 
+        "assets": [
+            "../ads/js/sitemap.min.js", 
+            "images/testimonial/advertiser.jpg", 
+            "images/testimonial/publisher.jpg", 
+            "initial-scale=1, minimum-scale=1, width=device-width", 
+            "Learn about advertising on Google and how to make money from your site.", 
+            "noodp", 
+            "css/default.v3.css"
+        ], 
+        "depth": 2, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/websearch?p=adv_pages_visited&hl=pt-PT", 
+        "assets": [
+            "initial-scale=1, minimum-scale=1, width=device-width"
+        ], 
+        "depth": 3, 
+        "external": false, 
+        "visited": true
+    }
+]
