@@ -197,9 +197,11 @@
     }, 
     {
         "status": 200, 
-        "loc": "www.google.com/intl/en/policies/privacy/", 
+        "loc": "www.google.com/green/index.html", 
         "assets": [
-            "initial-scale=1, minimum-scale=1, width=device-width"
+            "images/earthday/earthday-promo.png", 
+            "width=990", 
+            "Google is creating a better web that's better for the environment. We\u2019re greening our company by using resources as efficiently as possible and supporting renewable power. That means when you use Google products, you\u2019re being better to the environment."
         ], 
         "depth": 3, 
         "external": false, 
@@ -647,19 +649,6 @@
     }, 
     {
         "status": 200, 
-        "loc": "www.google.com/about/careers/locations/boulder/", 
-        "assets": [
-            "Explore careers with Google", 
-            "width=device-width, initial-scale=1.0", 
-            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
-            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
-        ], 
-        "depth": 4, 
-        "external": false, 
-        "visited": true
-    }, 
-    {
-        "status": 200, 
         "loc": "www.google.com/about/careers/locations/new-york/", 
         "assets": [
             "Explore careers with Google", 
@@ -784,10 +773,10 @@
         "visited": true
     }, 
     {
-        "status": 200, 
-        "loc": "www.google.com/?hl=pt-PT", 
+        "status": 404, 
+        "loc": "www.google.com//support.google.com/blogger/answer/41387?hl=pt-PT", 
         "assets": [
-            "text/html; charset=UTF-8"
+            "initial-scale=1, minimum-scale=1, width=device-width"
         ], 
         "depth": 3, 
         "external": false, 
@@ -795,17 +784,14 @@
     }, 
     {
         "status": 200, 
-        "loc": "www.google.com/about/careers/stories/the-primer-team-delivers-a-new-way-to-learn-marketing-skills-on-the-go/", 
+        "loc": "www.google.com/about/careers/how-we-hire/decide/", 
         "assets": [
-            "https://services.google.com/fh/files/misc/googlecareers_primer_05b.jpg", 
-            "https://services.google.com/fh/files/blogs/googlecareers_primer_03.jpg", 
-            "https://services.google.com/fh/files/blogs/googlecareers_primer_09.jpg", 
             "Explore careers with Google", 
             "width=device-width, initial-scale=1.0", 
             "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
             "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
         ], 
-        "depth": 6, 
+        "depth": 4, 
         "external": false, 
         "visited": true
     }, 
@@ -892,6 +878,19 @@
             "initial-scale=1, minimum-scale=1, width=device-width"
         ], 
         "depth": 2, 
+        "external": false, 
+        "visited": true
+    }, 
+    {
+        "status": 200, 
+        "loc": "www.google.com/about/careers/stories/how-googles-lobbies-are-designed-from-the-drawing-board-to-execution/", 
+        "assets": [
+            "Explore careers with Google", 
+            "width=device-width, initial-scale=1.0", 
+            "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
+            "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+        ], 
+        "depth": 6, 
         "external": false, 
         "visited": true
     }, 
@@ -984,10 +983,10 @@
         "visited": true
     }, 
     {
-        "status": 404, 
-        "loc": "www.google.com//support.google.com/blogger/answer/41387?hl=pt-PT", 
+        "status": 200, 
+        "loc": "www.google.com/?hl=pt-PT", 
         "assets": [
-            "initial-scale=1, minimum-scale=1, width=device-width"
+            "text/html; charset=UTF-8"
         ], 
         "depth": 3, 
         "external": false, 
@@ -995,14 +994,17 @@
     }, 
     {
         "status": 200, 
-        "loc": "www.google.com/about/careers/how-we-hire/decide/", 
+        "loc": "www.google.com/about/careers/stories/the-primer-team-delivers-a-new-way-to-learn-marketing-skills-on-the-go/", 
         "assets": [
+            "https://services.google.com/fh/files/misc/googlecareers_primer_05b.jpg", 
+            "https://services.google.com/fh/files/blogs/googlecareers_primer_03.jpg", 
+            "https://services.google.com/fh/files/blogs/googlecareers_primer_09.jpg", 
             "Explore careers with Google", 
             "width=device-width, initial-scale=1.0", 
             "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500", 
             "https://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
         ], 
-        "depth": 4, 
+        "depth": 6, 
         "external": false, 
         "visited": true
     }, 
@@ -1030,11 +1032,9 @@
     }, 
     {
         "status": 200, 
-        "loc": "www.google.com/green/index.html", 
+        "loc": "www.google.com/intl/en/policies/privacy/", 
         "assets": [
-            "images/earthday/earthday-promo.png", 
-            "width=990", 
-            "Google is creating a better web that's better for the environment. We\u2019re greening our company by using resources as efficiently as possible and supporting renewable power. That means when you use Google products, you\u2019re being better to the environment."
+            "initial-scale=1, minimum-scale=1, width=device-width"
         ], 
         "depth": 3, 
         "external": false, 
