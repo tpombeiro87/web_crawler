@@ -43,19 +43,19 @@ How to run?
 -----------
 
 In order to run this task the procedure is simple by using the following command on the context of this folder:
-    $ python crawler.py -u <DOMAIN> -f <FILE_OUTPUT> -l <LIMIT_PAGES> -s <SIMPLE_OUTPUT> -d <DEBUG>
+    $ python crawler.py -u \<DOMAIN\> -f \<FILE_OUTPUT\> -l \<LIMIT_PAGES\> -s \<SIMPLE_OUTPUT\> -d \<DEBUG\>
 
-<DOMAIN> - The site domain you want to crawl. Default: 'www.google.com'
+\<DOMAIN\> - The site domain you want to crawl. Default: 'www.google.com'
 
-<FILE_OUTPUT> - File to output the resulting site map. Default goes to the file 'result.json
+\<FILE_OUTPUT\> - File to output the resulting site map. Default goes to the file 'result.json
 
-<LIMIT_PAGES> - Limit of how many sites should be crawlled. Default 100. 0 defines no limit
+\<LIMIT_PAGES\> - Limit of how many sites should be crawlled. Default 100. 0 defines no limit
 
-<FILE_OUTPUT> - Defines the indentation to be adopted on output to be printed to the file. If True (default) - prints each node per line. If False prints each node with indentation
+\<FILE_OUTPUT\> - Defines the indentation to be adopted on output to be printed to the file. If True (default) - prints each node per line. If False prints each node with indentation
 
-<SIMPLE_OUTPUT> - Defines the indentation to be adopted on output to be printed to the file. If True (default) - prints each node per line. If False prints each node with indentation
+\<SIMPLE_OUTPUT\> - Defines the indentation to be adopted on output to be printed to the file. If True (default) - prints each node per line. If False prints each node with indentation
 
-<DEBUG> - If you want to run this in debug mode (more info on prints). Default is False. If this option is ennabled some exceptions will appear that are expected exceptions like http 301 and timeout.
+\<DEBUG\> - If you want to run this in debug mode (more info on prints). Default is False. If this option is ennabled some exceptions will appear that are expected exceptions like http 301 and timeout.
 
 No argummets are mandatory but is recommended that this command example is used:  
 
